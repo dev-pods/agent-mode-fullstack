@@ -1,46 +1,50 @@
-# (replace-me: Exercise title)
+# Construa aplicações fullstack com o modo agent do GitHub Copilot
 
-_(replace-me: One-line description of the exercise)_
+<!-- ![](../../actions/workflows/0-start-course.yml/badge.svg?branch=main) -->
+<img src="https://github.com/user-attachments/assets/1b3ea5df-f18d-4ed8-9ae6-f96dc1861818" alt="octofit-tracker" width="300"/>
 
-## Welcome
+_Construa uma aplicação com o modo agent do GitHub Copilot em menos de uma hora._
 
-- **Who is this for**: (replace-me: Target audience description)
-- **What you'll learn**: (replace-me: Learning objectives)
-- **What you'll build**: (replace-me: Description of what the learner will create)
-- **Prerequisites**:
-  - (replace-me: Prerequisite skill/exercise)
-  - (replace-me: Other prerequisites)
+## Bem-vindo
 
-- **How long**: This exercise takes less than (replace-me: estimated time) to complete.
+As pessoas adoram como o GitHub Copilot as ajuda a escrever código mais rápido e com menos erros.
+Mas e se o GitHub pudesse criar uma aplicação multi-camadas com apresentação e APIs baseadas em requisitos escritos em linguagem natural?
+Neste exercício, iremos usar o modo agent do GitHub Copilot para criar uma aplicação completa.
 
-In this exercise, you will:
+- **Para quem é**: Desenvolvedores intermediários familiarizados com GitHub Copilot, GitHub básico e desenvolvimento web básico
+- **O que você vai aprender**: Apresentaremos o modo agent do GitHub Copilot e como usá-lo para desenvolvimento de aplicações.
+- **O que você vai construir**: Você usará o modo agent do GitHub Copilot para criar uma aplicação de fitness como professor de educação física de uma escola.
+- **Pré-requisitos**: Exercício de Habilidades: <a href="https://github.com/skills/getting-started-with-github-copilot">Começando com GitHub Copilot</a>.
+- **Duração**: Este curso leva menos de uma hora para ser concluído.
 
-1. (replace-me: Learning objective step #1)
-1. (replace-me: Learning objective step #2)
-1. (replace-me: Learning objective step #N)
+Neste exercício, você irá:
 
+1. Inicializar um ambiente de desenvolvimento pré-configurado para criar uma aplicação multi-camadas.
+2. Fazer prompts no GitHub Copilot Chat e selecionar a aba edit e escolher o modo agent no menu suspenso edit/agent.
+3. Neste exercício utilizaremos principalmente o LLM padrão mais recente.
+4. Experimentar outros modelos LLM para ver diferentes saídas.
+5. Para cada etapa, abra uma nova sessão do Copilot Chat clicando no ícone de mais `+` no painel do Copilot Chat.
 
-### How to start this exercise
+### Como iniciar este exercício
 
-Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
+Simplesmente copie o exercício para sua conta, então dê ao seu Octocat favorito (Mona) **cerca de 20 segundos** para preparar a primeira lição, depois **atualize a página**.
 
-<!--  (replace-me: Make sure to edit the URL with proper template_owner, template_name, repo name and description)  -->
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=exercise-template&owner=%40me&name=skills-<replace-me>&description=Exercise:+Replace+me&visibility=public)
+[![](https://img.shields.io/badge/Copiar%20Exerc%C3%ADcio-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=dev-pods&template_name=agent-mode-fullstack&owner=%40me&name=agent-mode-fullstack&description=Exercicio:+Construa+aplicacoes+com+modo+agent+do+GitHub+Copilot&visibility=public)
 
 <details>
-<summary>Having trouble? 🤷</summary><br/>
+<summary>Tendo problemas? 🤷</summary><br/>
 
-When copying the exercise, we recommend the following settings:
+Ao copiar o exercício, recomendamos as seguintes configurações:
 
-- For owner, choose your personal account or an organization to host the repository.
+- Para proprietário, escolha sua conta pessoal ou uma organização para hospedar o repositório.
 
-- We recommend creating a public repository, since private repositories will use Actions minutes.
+- Recomendamos criar um repositório público, pois repositórios privados usarão minutos do Actions.
 
-If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
+Se o exercício não estiver pronto em 20 segundos, verifique a aba "Actions" do seu repositório (ou visite `https://github.com/<SEU-USUARIO>/<SEU-REPO>/actions`).
 
-- Check to see if a job is running. Sometimes it simply takes a bit longer.
+- Verifique se um job está sendo executado. Às vezes simplesmente demora um pouco mais.
 
-- If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
+- Se a página mostrar um job que falhou, por favor envie uma issue. Legal, você encontrou um bug! 🐛
 
 </details>
 
