@@ -1,4 +1,9 @@
-Aplicações de backend devem ficar no diretório 
-app/backend e aplicações de frontend no diretório app/frontend.
+Aplicação de backend deve ficar no diretório app/backend 
+Aplicação de frontend deve ficar no diretório app/frontend.
 
-nunca mude de diretório, sempre prefixe o comando com a pasta correta.
+# Diretrizes de Configuração e Estrutura da App de Fitness Octofit-tracker
+
+## Nunca mude diretórios quando o modo agent estiver executando comandos
+
+- Nunca mude diretórios
+- Em vez disso, aponte para o diretório ao emitir comandos
