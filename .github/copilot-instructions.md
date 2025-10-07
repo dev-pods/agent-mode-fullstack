@@ -1,7 +1,7 @@
 Aplicação de backend deve ficar no diretório app/backend 
 Aplicação de frontend deve ficar no diretório app/frontend.
 
-# Diretrizes de Configuração e Estrutura da App de Fitness Octofit-tracker
+# Diretrizes de Configuração e Estrutura da App de Produtos
 
 ## Nunca mude diretórios quando o modo agent estiver executando comandos
 
